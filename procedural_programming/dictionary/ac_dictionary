@@ -1,0 +1,6 @@
+# Advance concept of Dictionary
+
+languages = {'js': 'webstrom', 'c#': 'visual studio', 'python': ['sublime', 'pycharm'], 'java': { 'jse': 'netbeans', 'jee': 'eclips'} }
+
+print(languages['python'])
+

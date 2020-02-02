@@ -1,0 +1,56 @@
+# Array is called list in python. List is mutable. It's means we can change the values.
+# list use to define squire brackets like [].
+# index positive start with 0 like [0, 1, 2, 3, 4] or negative start with -1 like [-5, -4, -3, -2, -1]
+numbers = [10, 15, 20, 25, 30]
+names = ['apple', 'orange', 'mango', 'coconut', 'lemon']
+
+
+# print list
+print(numbers)
+
+# print list value with positive index
+print(numbers[2])
+
+# print list value with minus index
+print(numbers[-2])
+
+# print n index value to list of length
+print(numbers[2:])
+
+# Two list into one list or two dimensional list
+data = [numbers, names]
+print(data)
+
+# Available function for list like
+
+# list.append(element) - Add new element to a last of the list
+
+# list.clear() - clear all of list element
+
+# list.copy - copy all of list element
+
+# list.count - get list length
+
+# list.extend([multiple element]) - add multiple element to a list
+
+# list.index
+
+# list.insert(index, element) - Add new element to the index of the list
+
+
+# list.pop(index) - Remove element by the index from list.
+#                   If you are not pass index then it will be remove the last element
+
+# list.remove(element)  - Remove element by the element from list
+
+# list.reverse
+
+# list.sort
+
+# del.numbers[3:] - Remove multiple element form list
+
+
+print(max(numbers))
+
+# list has many functions like sum(), max(), min(), sort() etc.
+

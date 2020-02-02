@@ -1,0 +1,20 @@
+# set use to define curly brackets like {}.
+numbers = {10, 15, 20, 25, 30}
+# numbers.copy(self)
+# numbers.clear(self)
+# numbers.difference(self, s)
+# numbers.difference_update(self, s)
+# numbers.discard(self, element)
+# numbers.intersection(self, s)
+# numbers.intersection_update(self, s)
+# numbers.isdisjoint(self, s)
+# numbers.issubset(self, s)
+# numbers.issuperset(self, s)
+# numbers.pop(self)
+# numbers.remove(self, element)
+# numbers.symmetric_difference(self, s)
+# numbers.symmetric_difference_update(self, s)
+# numbers.union(self, s)
+# numbers.union_update(self, s)
+
+print(numbers)

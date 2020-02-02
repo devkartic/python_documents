@@ -1,0 +1,7 @@
+# Tuple is also like list in python. But tuple is immutable. It's means we can't change the values.
+# list use to define round brackets like ().
+
+numbers = (10, 15, 20, 25, 30)
+
+print(numbers)
+
