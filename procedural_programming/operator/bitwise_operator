@@ -1,0 +1,45 @@
+# Bitwise operator
+
+# 1. Complement Operator (~)
+# 2. AND Operator (&)
+# 3. OR Operator (|)
+# 4. XOR Operator (^)
+# 5. Leftshift Operator (<<)
+# 6. Rightshift Operator (>>)
+
+# complement operator
+# 2's complement for minus value of any positive number
+print(~12)
+
+# And operator
+
+a = 12 # 00001100
+b = 13 # 00001101
+bitwiseAnd = a & b
+print(bitwiseAnd)
+
+# Or operator
+print(a | b)
+
+# Xor operator
+print(a ^ b)
+
+# Leftshift operator. Note : shift given bit like 2 right to left with dot(.) constant
+print(a << 2)
+
+# Rightshift operator. Note : shift given bit like 2 left to right with dot(.) constant
+print(a >> 2)
+
+
+
+
+
+
+
+
+
+
+
+
+
+

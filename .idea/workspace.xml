@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5f539394-6ecf-4879-b3a6-9346a3180e74" name="Default Changelist" comment="" />
+    <list default="true" id="5f539394-6ecf-4879-b3a6-9346a3180e74" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1TWZpQHct3AYwmcCbraftEI7JpC" />
   <component name="ProjectViewState">
@@ -14,11 +21,16 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.dictionary (1)">
-    <configuration name="ac_dictionary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="PyDebuggerOptionsProvider">
+    <option name="myAttachProcessFilter" value="python/python_documents" />
+  </component>
+  <component name="RunManager" selected="Python.bitwise_operator">
+    <configuration name="bitwise_operator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -26,56 +38,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dictionary" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/procedural_programming/operator" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dictionary/ac_dictionary" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="constant" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="test" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/constant" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/constant/constant.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="data_type" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="test" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data_type" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_type/data_type.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/procedural_programming/operator/bitwise_operator" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -106,7 +74,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="variable" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="number_system" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -114,12 +82,56 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/variable" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/procedural_programming/number_system_Conversion" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/variable/variable.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/procedural_programming/number_system_Conversion/number_system.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="oprerator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/procedural_programming/operator" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/procedural_programming/operator/oprerator" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="swap2variable" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/procedural_programming/swap" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/procedural_programming/swap/swap2variable.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -130,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.bitwise_operator" />
+        <item itemvalue="Python.swap2variable" />
+        <item itemvalue="Python.number_system" />
+        <item itemvalue="Python.oprerator" />
         <item itemvalue="Python.dictionary (1)" />
-        <item itemvalue="Python.data_type" />
-        <item itemvalue="Python.constant" />
-        <item itemvalue="Python.variable" />
-        <item itemvalue="Python.ac_dictionary" />
       </list>
     </recent_temporary>
   </component>
@@ -172,6 +184,8 @@
       <workItem from="1580500453030" duration="3206000" />
       <workItem from="1580543814708" duration="9675000" />
       <workItem from="1580651973557" duration="6221000" />
+      <workItem from="1580740819143" duration="678000" />
+      <workItem from="1580821090673" duration="7583000" />
     </task>
     <servers />
   </component>
@@ -179,26 +193,30 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="440" y="175" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580655122215">
+    <state x="440" y="175" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580830539209">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
-    <state x="440" y="175" key="#com.intellij.fileTypes.FileTypeChooser/65.24.1301.744@65.24.1301.744" timestamp="1580655122215" />
-    <state width="1255" height="173" key="GridCell.Tab.0.bottom" timestamp="1580661468219">
+    <state x="440" y="175" key="#com.intellij.fileTypes.FileTypeChooser/65.24.1301.744@65.24.1301.744" timestamp="1580830539209" />
+    <state x="503" y="141" key="FileChooserDialogImpl" timestamp="1580822067925">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
-    <state width="1255" height="173" key="GridCell.Tab.0.bottom/65.24.1301.744@65.24.1301.744" timestamp="1580661468219" />
-    <state width="1255" height="173" key="GridCell.Tab.0.center" timestamp="1580661468219">
+    <state x="503" y="141" key="FileChooserDialogImpl/65.24.1301.744@65.24.1301.744" timestamp="1580822067925" />
+    <state width="1255" height="173" key="GridCell.Tab.0.bottom" timestamp="1580839735517">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
-    <state width="1255" height="173" key="GridCell.Tab.0.center/65.24.1301.744@65.24.1301.744" timestamp="1580661468219" />
-    <state width="1255" height="173" key="GridCell.Tab.0.left" timestamp="1580661468218">
+    <state width="1255" height="173" key="GridCell.Tab.0.bottom/65.24.1301.744@65.24.1301.744" timestamp="1580839735517" />
+    <state width="1255" height="173" key="GridCell.Tab.0.center" timestamp="1580839735516">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
-    <state width="1255" height="173" key="GridCell.Tab.0.left/65.24.1301.744@65.24.1301.744" timestamp="1580661468218" />
-    <state width="1255" height="173" key="GridCell.Tab.0.right" timestamp="1580661468219">
+    <state width="1255" height="173" key="GridCell.Tab.0.center/65.24.1301.744@65.24.1301.744" timestamp="1580839735516" />
+    <state width="1255" height="173" key="GridCell.Tab.0.left" timestamp="1580839735516">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
-    <state width="1255" height="173" key="GridCell.Tab.0.right/65.24.1301.744@65.24.1301.744" timestamp="1580661468219" />
+    <state width="1255" height="173" key="GridCell.Tab.0.left/65.24.1301.744@65.24.1301.744" timestamp="1580839735516" />
+    <state width="1255" height="173" key="GridCell.Tab.0.right" timestamp="1580839735516">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state width="1255" height="173" key="GridCell.Tab.0.right/65.24.1301.744@65.24.1301.744" timestamp="1580839735516" />
     <state width="1255" height="219" key="GridCell.Tab.1.bottom" timestamp="1580503660737">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
@@ -215,18 +233,22 @@
       <screen x="65" y="24" width="1301" height="744" />
     </state>
     <state width="1255" height="219" key="GridCell.Tab.1.right/65.24.1301.744@65.24.1301.744" timestamp="1580503660737" />
-    <state x="209" y="24" key="SettingsEditor" timestamp="1580500397211">
+    <state x="209" y="24" key="SettingsEditor" timestamp="1580822204405">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
-    <state x="209" y="24" key="SettingsEditor/65.24.1301.744@65.24.1301.744" timestamp="1580500397211" />
-    <state x="378" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1580652555177">
+    <state x="209" y="24" key="SettingsEditor/65.24.1301.744@65.24.1301.744" timestamp="1580822204405" />
+    <state x="378" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1580821099140">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
-    <state x="378" y="225" key="com.intellij.ide.util.TipDialog/65.24.1301.744@65.24.1301.744" timestamp="1580652555177" />
+    <state x="378" y="225" key="com.intellij.ide.util.TipDialog/65.24.1301.744@65.24.1301.744" timestamp="1580821099140" />
     <state x="378" y="89" key="search.everywhere.popup" timestamp="1580500461016">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
     <state x="378" y="89" key="search.everywhere.popup/65.24.1301.744@65.24.1301.744" timestamp="1580500461016" />
+    <state x="445" y="268" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1580822151923">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state x="445" y="268" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/65.24.1301.744@65.24.1301.744" timestamp="1580822151923" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -244,16 +266,20 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/python_documents$oprerator.coverage" NAME="oprerator Coverage Results" MODIFIED="1580828282929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/procedural_programming/operator" />
+    <SUITE FILE_PATH="coverage/python_documents$number_system.coverage" NAME="number_system Coverage Results" MODIFIED="1580828891811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/procedural_programming/number_system_Conversion" />
+    <SUITE FILE_PATH="coverage/test$list.coverage" NAME="list Coverage Results" MODIFIED="1580554094229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/list" />
+    <SUITE FILE_PATH="coverage/test$while.coverage" NAME="while Coverage Results" MODIFIED="1580567463361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/while" />
+    <SUITE FILE_PATH="coverage/test$variable.coverage" NAME="variable Coverage Results" MODIFIED="1580653867553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/variable" />
     <SUITE FILE_PATH="coverage/test$index.coverage" NAME="index Coverage Results" MODIFIED="1580500640199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/test$data_type.coverage" NAME="data_type Coverage Results" MODIFIED="1580656986101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_type" />
     <SUITE FILE_PATH="coverage/test$dictionary.coverage" NAME="dictionary Coverage Results" MODIFIED="1580652570308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dictionary" />
     <SUITE FILE_PATH="coverage/test$ac_dictionary.coverage" NAME="ac_dictionary Coverage Results" MODIFIED="1580652599576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dictionary" />
     <SUITE FILE_PATH="coverage/test$touple.coverage" NAME="touple Coverage Results" MODIFIED="1580556483608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/touple" />
-    <SUITE FILE_PATH="coverage/test$list.coverage" NAME="list Coverage Results" MODIFIED="1580554094229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/list" />
     <SUITE FILE_PATH="coverage/test$dictionary__1_.coverage" NAME="dictionary (1) Coverage Results" MODIFIED="1580661407422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_type" />
-    <SUITE FILE_PATH="coverage/test$while.coverage" NAME="while Coverage Results" MODIFIED="1580567463361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/while" />
     <SUITE FILE_PATH="coverage/test$set.coverage" NAME="set Coverage Results" MODIFIED="1580558415316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/set" />
-    <SUITE FILE_PATH="coverage/test$variable.coverage" NAME="variable Coverage Results" MODIFIED="1580653867553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/variable" />
+    <SUITE FILE_PATH="coverage/python_documents$swap2variable.coverage" NAME="swap2variable Coverage Results" MODIFIED="1580830093101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/procedural_programming/swap" />
+    <SUITE FILE_PATH="coverage/python_documents$bitwise_operator.coverage" NAME="bitwise_operator Coverage Results" MODIFIED="1580839735503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/procedural_programming/operator" />
     <SUITE FILE_PATH="coverage/test$constant.coverage" NAME="constant Coverage Results" MODIFIED="1580655003311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/constant" />
   </component>
 </project>

@@ -1,0 +1,69 @@
+# Operator are python in given bellow
+
+# 1. Arithmetic Operator
+# 2. Assignment Operator
+# 3. Relational Operator
+# 4. Logical Operator
+# 5. Unary Operator
+
+# Arithmetic Operator
+
+a = 20
+b = 5
+
+sum = a + b
+sub = a - b
+mul = a * b
+div = a / b
+
+print(sum, sub, mul, div)
+
+# Assignment Operator
+
+# multiple variables assign multiple values in one line
+a, b, c = 10, 20, 30
+print(a, b, c)
+
+x = 15
+print(x)
+
+# Assignment Operator used with increment, decrement
+x += 5
+print(x)
+x -= 5
+print(x)
+x *= 3
+print(x)
+x /= 5
+print(x)
+
+# Relational Operator
+a = 5
+b = 3
+
+print(a > b)
+print(a >= b)
+print(a < b)
+print(a <= b)
+print(a == b)
+print(a != b)
+
+# Unary operator or negation
+
+n = 7
+n = -n
+print(n)
+
+# Logical operator
+
+a = 3
+b = 7
+
+print(a < 4 and b > 5)
+print(a < 4 or b > 5)
+
+print(not False)
+
+
+
+
