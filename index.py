@@ -1,6 +1,5 @@
-a = 5
-b = 4
+numbers = [2, 4, 'python', 5, 'programming', 8]
 
-sum = a+b
-
-print(sum)
+for i in numbers:
+    print(i, '', end='')
+print()
