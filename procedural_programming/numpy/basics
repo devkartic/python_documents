@@ -1,0 +1,10 @@
+# numpy install
+# run command pip3 install numpy
+
+from numpy import * 
+
+
+
+
+
+
